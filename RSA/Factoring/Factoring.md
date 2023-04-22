@@ -1,0 +1,10 @@
+Just use [Factordb](http://factordb.com) for 510143758735509025530880200653196460532653147
+
+I got two numbers:
+
+19704762736204164635843 , 25889363174021185185929
+
+The smaller one is the answer.
+
+So the answer is 19704762736204164635843
+
